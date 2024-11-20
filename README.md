@@ -20,6 +20,10 @@ The dashboard focuses on analyzing Call Center Metrics, specifically:
 ## Tools and Technologies Used
 - Power BI:  **Version: 2.138.1004.0 64-bit (November 2024)**
 
-### 1. Requirements : Analyze and create Call Center Metrics to meet requirements, consult with Stakeholders for imput, layout and on time completion
-### 2. Gather and Prep the Data : Connect to source data using PBI source data experience, this case Excel
-### 3. Clean and Transform Data : Use Power Query Editor (Filter, Merge, Rename, remove dups etc..)
+- Requirements : Analyze and create Call Center Metrics to meet requirements, consult with Stakeholders for imput, layout and on time completion
+- Gather and Prep the Data : Connect to source data using PBI source data experience, this case Excel
+- Clean and Transform Data : Use Power Query Editor (Filter, Merge, Rename, remove dups etc..)
+  
+![](powerquery.png)
+
+- Use **DAX** to perform advanced calculations and create custom aggregations. Example to find out by Month over Month for call Deals
