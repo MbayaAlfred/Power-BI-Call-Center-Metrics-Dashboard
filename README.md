@@ -53,7 +53,7 @@ The dashboard focuses on analyzing Call Center Metrics, specifically:
 
 ## Recommendations :
 
-- Train Low-Performing Agents:
+- Train Low-Performing Agents: Identify who they are and when this happens.
   Focus on agents with high dropped calls to improve their efficiency and deal conversion rates.
 - Optimize Call Timing:
 - Study patterns for best times to reach customers (e.g., Tuesday success) and shift efforts towards those periods.
