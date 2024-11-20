@@ -1,5 +1,5 @@
 # Call Center Metrics Dashboard
-![](report.png)
+![](dashboard.png)
 
 
 ## **Problem Statement**
@@ -45,14 +45,26 @@ The dashboard focuses on analyzing Call Center Metrics, specifically:
   
 ![](analyzer.png)
 
-- Sample check of **Root Cause Model Analysis** : What could me some clean up efforts to optimize the model ? **Remove the First name and last name columns, change date table to
+- Sample check of **Root Cause Model Analysis** : What could me some clean up efforts to optimize the model ?
+  **Remove the First name and last name columns, change date table to
   only date not datetime as examples**
   
 ![](daxstudio.png)
 
+## Recommendations :
 
+- Train Low-Performing Agents:
+  Focus on agents with high dropped calls to improve their efficiency and deal conversion rates.
+- Optimize Call Timing:
+- Study patterns for best times to reach customers (e.g., Tuesday success) and shift efforts towards those periods.
+- Investigate :  why calls are being dropped (technical issues, insufficient training, or process gaps) and address them to improve reach and deals.
+- Evaluate weekend performance to determine if increasing staffing or reallocating resources can boost deal closures.
 
+## Publish and share :
 
+- *Interact with the report here* :
+  [Call Center Metrics Dashboard](https://app.powerbi.com/reportEmbed?reportId=98b176ee-a109-4f2e-904f-f7170c3aee5b&autoAuth=true&ctid=78d1fb89-a6cc-4862-a67c-a7287504e26f)
+  
 
 
 
