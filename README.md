@@ -26,4 +26,10 @@ The dashboard focuses on analyzing Call Center Metrics, specifically:
   
 ![](powerquery.png)
 
-- Use **DAX** to perform advanced calculations and create custom aggregations. Example to find out by Month over Month for call Deals
+- Use **DAX** to perform advanced calculations and create custom aggregations. Example to find out by Month over Month for call Deals.
+  Add custome columns, KPI, Field Parameters etc
+  
+![](dax.png)
+- Report Design: Used custom Template as background to add fields into the canvass. To created Stacked bar chart (Comparing 2 data points), custome Cards, Field parameters
+  filters, slicers
+- Advanced Power BI Techniques : Interactive bookmarks, KPI Switch table, Field parameter slicers, DAX folders 
