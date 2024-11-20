@@ -40,9 +40,15 @@ The dashboard focuses on analyzing Call Center Metrics, specifically:
 
 - Testing Report, Data validation , Performance testing : Initial testing report renders well, slicers filters respond correctly
   Performance analyzer for most expensive metric or resource, this can be evaluated in **DAX Studio** for analysis. Apply Best Practice Rules
-  using Tabular Editor
+  using Tabular Editor.
+- Sample check of **Performance Analyzer** we see below measure with highest times. 
+  
+![](analyzer.png)
 
-
+- Sample check of **Root Cause Model Analysis** : What could me some clean up efforts to optimize the model ? **Remove the First name and last name columns, change date table to
+  only date not datetime as examples**
+  
+![](daxstudio.png)
 
 
 
