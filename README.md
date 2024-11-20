@@ -55,10 +55,9 @@ The dashboard focuses on analyzing Call Center Metrics, specifically:
 
 - Train Low-Performing Agents: Identify who they are and when this happens.
   Focus on agents with high dropped calls to improve their efficiency and deal conversion rates.
-- Optimize Call Timing:
-- Study patterns for best times to reach customers (e.g., Tuesday success) and shift efforts towards those periods.
-- Investigate :  why calls are being dropped (technical issues, insufficient training, or process gaps) and address them to improve reach and deals.
-- Evaluate weekend performance to determine if increasing staffing or reallocating resources can boost deal closures.
+- Optimize Call Timing: Study patterns for best times to reach customers (e.g., Tuesday success) and shift efforts towards those periods.
+- Investigate : Why calls are being dropped (technical issues, insufficient training, or process gaps) and address them to improve reach and deals.
+- Evaluate weekend performance : To determine if increasing staffing or reallocating resources can boost deal closures.
 
 ## Publish and share :
 
