@@ -10,6 +10,7 @@ The dashboard focuses on analyzing Call Center Metrics, specifically:
 - Trends in metrics based on time (e.g., weekdays, quarters, and months).
 - Comparison of performance vs. Last Month (LM), Last Quarter (LQ), and Last Year (LY).
   
+  
    **The primary objective is to identify areas for improving call efficiency, deal conversion rates, and reducing dropped calls to maximize revenue**
 
 ## Main features
